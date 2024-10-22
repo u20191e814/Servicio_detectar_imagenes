@@ -1,0 +1,8 @@
+{
+  "WriteLogInWindowsEvents": false,
+  "WriteLogInDirectory": true,
+  "LogDirectory": "",
+  "LogDirectoryMaxDays": 10,
+  "SqlConexion": "SERVER=LAPTOP-BBA1QK9B\\SQLEXPRESS;DATABASE=Deteccion_Motos;UID=sa;PWD=123456789;"
+
+}
